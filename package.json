@@ -1,0 +1,21 @@
+{
+    "name": "yellos-yellow-dark",
+    "displayName": "Yello's Yellow Dark",
+    "description": "Yello's custom VsCode dark and yellow theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Yello's Yellow Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Yello's Yellow Dark-color-theme.json"
+            }
+        ]
+    }
+}
